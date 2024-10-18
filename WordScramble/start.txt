@@ -1,34 +1,34 @@
-spare: spa, par, rap, are, ear, ape, pea, res, sea, sap, pear, spar, rape, reap, apes, ears, peas, sear, pear, pears, parse, reaps
-stare: rates, tears, asters, star, rats, arts, rest, tear, rate, seat, eat, ear, sat, rat, set, art, tar
-meats: steam, teams, mate, meat, team, mast, mats, seam, same, eats, seat, east, ate, tea, tam, mat, sat, eat, sea, met
+spare: spa, par, rap, are, ear, ape, pea, res, sea, sap, pear, spar, rape, reap, apes, ears, peas, sear, pear, pears, parse, reaps, era
+stare: rates, tears, asters, star, rats, arts, rest, tear, rate, seat, eat, ear, sat, rat, set, art, tar, eat, ate, era
+meats: steam, teams, mate, meat, team, mast, mats, seam, same, eats, seat, east, ate, tea, tam, mat, sat, eat, sea, met, eat, ate
 drawer: reward, warder, wader, ware, wear, ward, dare, read, dear, rear, war, raw, red, dew, rad, awe, are
-silent:  listen, inlets, tinsel, enlist, lent, sent, tens, line, nets, nest, ties, tile, lies, tin, net, set, sit, sin, lit, let, tie, ten
+silent: listen, inlets, tinsel, enlist, lent, sent, tens, line, nets, nest, ties, tile, lies, tin, net, set, sit, sin, lit, let, tie, ten
 angle: angel, glean, lean, lane, gale, lag, age, ale, gel
-painter: repaint, retain, pertain, paint, inter, inert, enter, train, pain, rain, rant, tear, part, trap, rate, pat, tap, pan, nap, net, pit, pin, tin, tan, pat, art, rat, ant, ran, air
+painter: repaint, retain, pertain, paint, inter, inert, enter, train, pain, rain, rant, tear, part, trap, rate, pat, tap, pan, nap, net, pit, pin, tin, tan, pat, art, rat, ant, ran, air, eat, ate, era
 section: notices, tones, stone, notes, cone, tone, sent, ties, site, note, nest, nets, set, ten, tie, sin, net, tin
 rescue: secure, curse, user, sure, cure, rec, use, sue, sec
 stressed: desserts, rests, dress, seeds, seed, rest, sets, red, set, see, sir
-finder: friend, fired, finer, find, fire, fine, fern, den, red, end
-listener: silent, enlist, tinsel, inlets, liner, lent, lines, nest, nets, ties, tile, tine, sent, set, tin, net, sin, let, lie, tie
-restarting: starting, staring, ratings, rants, grains, string, range, grate, rings, start, giant, train, gate, rate, rant, star, tear, gear, rain, rat, ring, art, air, ant
-starting: staring, rating, grains, giant, string, train, rang, star, rant, ring, gait, gain, art, rat, tin, tan, sat, sin, ant
+finder: friend, fired, refind, finer, find, fire, fine, fern, den, red, end
+listener: relisten, silent, enlist, tinsel, inlets, liner, lent, lines, nest, nets, ties, tile, tine, sent, set, tin, net, sin, let, lie, tie
+restarting: starting, staring, ratings, rants, grains, string, range, grate, rings, start, giant, train, gate, rate, rant, star, tear, gear, rain, rat, ring, art, air, ant, eat, ate, era
+starting: staring, rating, grains, giant, string, train, start, rang, star, rant, ring, gait, gain, art, rat, tin, tan, sat, sin, ant
 spreading: reading, spearing, daring, grades, ranges, spare, grains, grade, grind, ranges, range, grand, spear, spar, drag, pear, read, ring, rid, gas, nap, gear, gap, rag, red, and, pan, pad
-altering: relating, integral, alerting, triangle, linger, giant, angle, grain, large, later, great, range, rain, rate, rant, gate, tear, air, art, tag, rag, tan, net
+altering: relating, integral, alerting, genital, triangle, linger, giant, angle, grain, large, later, great, range, rain, rate, rant, gate, tear, air, art, tag, rag, tan, net, eat, ate, era
 constrain: strain, trains, rants, coins, rant, rain, train, torn, star, stain, can, sat, ran, sin, son, tan, tin, con, ant
 stopper: poster, stop, sport, spots, store, ports, poet, tops, pest, rope, post, pot, top, toe, opt, set, pop, per, ore
-dangerous: danger, round, reason, sound, dragon, send, road, dear, near, redo, rose, earn, soar, dune, rage, drag, and, use, end, son, sue, ran, rod, red
-reading: daring, grader, garden, range, grade, grain, near, gain, rain, read, gear, rend, ring, dear, rad, red, and, dig, ran, rag, den, din
+dangerous: danger, round, reason, sound, dragon, send, road, dear, near, redo, rose, earn, soar, dune, rage, sour, drag, and, use, end, son, sue, ran, rod, red, era
+reading: daring, grader, garden, range, grade, grain, near, gain, rain, read, gear, rend, ring, dear, rad, red, and, dig, ran, rag, den, din, era
 encounter: recount, counter, tenon, tonne, enter, tone, cone, torn, tune, rent, note, cure, core, cent, teen, ten, net, not, run, ore
 restoring: storing, snoring, singer, stinger, rosing, resort, rings, store, stone, grins, torn, rose, ring, sort, sore, rest, sign, rise, grin, net, set, sit
-operating: gainer, rating, taping, great, grate, grain, range, prong, ornate, taper, gear, rain, tear, ring, gate, part, pain, pan, port, top, pat, pot, net, tag, tan, rat, rap, tap
-treading: reading, darting, rating, dating, gradient, grain, great, grade, train, range, rant, tear, drag, dear, rain, red, den, net, tan, rag, ear, rat, tag, din, tin, and, ant
-enlarging: learning, nearing, gaining, angler, range, large, grain, glare, glean, liner, lane, lean, rain, gear, grin, rag, ran, nag, lag, ear, gin, net, tan
-catering: reacting, grating, trace, great, range, rating, caring, gate, grain, rant, tear, ring, ear, tan, tag, eat, rat, net, gin
-disgraceful: disgrace, surfaced, glared, raised, argue, leads, cares, large, grace, scale, flags, grade, scar, fade, face, far, car, rag, race, sad, lad, gas, red, ear, sea
+operating: gainer, rating, taping, great, grate, grain, range, prong, ornate, taper, gear, rain, tear, ring, gate, part, pain, pan, port, top, pat, pot, net, tag, tan, rat, rap, tap, eat, ate, era
+treading: reading, darting, rating, dating, gradient, tread, read, grain, great, grade, train, range, rant, tear, drag, dear, rain, red, den, net, tan, rag, ear, rat, tag, din, tin, and, ant, era
+enlarging: learning, nearing, gaining, angler, range, large, grain, glare, glean, liner, lane, lean, rain, gear, grin, rag, ran, nag, lag, ear, gin, net, tan, era
+catering: reacting, grating, trace, great, range, rating, caring, gate, grain, rant, tear, ring, ear, tan, tag, eat, rat, net, gin, era
+disgraceful: disgrace, surfaced, glared, raised, argue, leads, cares, large, grace, scale, flags, grade, scar, fade, face, far, car, rag, race, sad, lad, gas, red, ear, sea, eat, ate, era
 challenges: challenge, changes, angel, angle, lanes, glance, clean, hangs, aches, ache, calls, shell, heal, change, sale, gale, lean, age, lag, gal, can, gas, eel, sea
 wondering: goring, gown, down, ring, grid, word, worn, grin, din, win, dig, in, own, red, rod, end, nod, one, sow, low, win, new
-operating: gaining, great, grain, rating, taping, gate, part, ring, tear, tap, tag, net, pot, pin, rat, rag, peg
-elevating: elevating, gating, gain, late, great, grain, vent, nail, tale, angle, vein, lat, net, eat, gate, tea, tin, tan
+operating: gaining, great, grain, rating, taping, gate, part, ring, tear, tap, tag, net, pot, pin, rat, rag, eat, ate, era
+elevating: elevating, gating, gain, late, great, grain, vent, nail, tale, angle, vein, lat, net, eat, gate, tea, tin, tan, eat, ate
 transports: transport, sport, port, star, rant, trap, trap, torn, porn, stop, rant, stone, rant, note, nor, sore, rat, pan, tar, son
 continuing: counting, couting, tuning, tin, run, gun, win, con, out, cot, gin, ant, cut, act, tun, tin, not, nut
 exploring:  roping, piling, ring, role, lore, pore, porn, ping, long, grin, grin, sing, spin, pro, log, ore, pig, rip, sip, tip, pin, nor, win
@@ -36,6 +36,6 @@ responding: ponding, soring, pond, signs, ring, song, send, grin, red, nod, end,
 imagining:  gaining, gaming, main, gain, gin, man, aim, mag
 delivering: deliver, grieve, living, river, lid, gel, led, grin, red, dig, and, end, dig, rid, den, ring, glean
 containing: contain, coating, gaining, cat, can, tan, not, and, ant, gin, ton, out
-detaining: detaining, tainting, dating, den, eat, net, rat, tan, tag, ant, aid, din, den, and, tin, nag
-defeating: fading, dating, gain, dine, fate, feat, drain, neat, gate, eat, tan, end, den, tin, ant, net, tan
-maintains: maintain, ant, main, stain, satin, saint, nits, sin, tan, tin, mat, man, sat, set, aim
+detaining: detain, tainting, dating, den, eat, net, rat, tan, tag, ant, aid, din, den, and, tin, nag, eat, ate
+defeating: fading, dating, gain, dine, fate, feat, drain, neat, gate, eat, tan, end, den, tin, ant, net, tan, eat, ate
+maintains: maintain, ant, main, mint, stain, satin, saint, nits, sin, tan, tin, mat, man, sat, set, aim
